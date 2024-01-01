@@ -1,2 +1,1 @@
-Membuat resolusi.txt di GITHUB
-Edit resolusi.txt di GITHUB
+Hapus semua content pada resolusi.txt
