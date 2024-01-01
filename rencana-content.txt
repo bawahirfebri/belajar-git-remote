@@ -2,3 +2,5 @@ Membuat file rencata-content.txt
 Update rencata-content.txt
 Update data lagi :)
 Update coba-fitur-2
+Update coba-fitur-1 1
+Update coba-fitur-1 2
